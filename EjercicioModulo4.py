@@ -1,2 +1,4 @@
 lista = list(range(1,101))
-print(lista)
+listaInverse = sorted(lista,reverse=True)
+print(listaInverse)
+
